@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hey there, i'm Guilherme!
+- System anaylisis course student
+- ENG / PT-BR
+- Spring boot / Maven / Node.js / React / React Native / MySql / Docker / Linux
+- Java / Javascript + html + css / Sql / 
+
+
+  _"despite everything, it's still you."_
+
+  <img src="https://pusheen.com/wp-content/uploads/2025/09/Typing_GIF.gif" alt="Project Screenshot" width="200" height="auto" flex=1 align-self="center">
 
 <!--
 **guilhermelealdev/guilhermelealdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
